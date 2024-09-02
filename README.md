@@ -1,0 +1,2 @@
+# PaddleOCR_for_industrial_project
+PaddleOCR_for_industrial_project
