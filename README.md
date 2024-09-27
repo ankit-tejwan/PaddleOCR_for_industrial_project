@@ -3,6 +3,7 @@
 
 # Required dependency 
 pip install paddleocr
+
 pip install paddlepaddle
 
 
