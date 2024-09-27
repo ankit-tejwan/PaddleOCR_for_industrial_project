@@ -1,4 +1,22 @@
 # PaddleOCR_for_industrial_project
+
+
+# Required dependency 
+pip install paddleocr
+pip install paddlepaddle
+
+
+
+
+
+
+
+
+
+
+
+
+
 PaddleOCR_for_industrial_project
 
 Input image for OCR 
